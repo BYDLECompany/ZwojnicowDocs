@@ -45,6 +45,10 @@ if response == MessageBoxResponse.Yes then
 end
 ```
 
+<figure><img src="../.gitbook/assets/Zrzut ekranu 2024-11-17 190133.png" alt=""><figcaption><p>MessageBox in-game</p></figcaption></figure>
+
+
+
 In this example, the message box asks the user about saving changes, and the response will be one of the `MessageBoxResponse` values.
 
 {% hint style="warning" %}
