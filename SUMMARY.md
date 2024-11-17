@@ -7,7 +7,12 @@
 * [Player API](zwojnicow-api/player-api.md)
 * [Engine](zwojnicow-api/engine.md)
 
-## Reference
+## Classes
 
-* [Event](reference/event.md)
-* [Page](reference/page.md)
+* [Event](classes/event.md)
+
+## Methods
+
+* [msgbox](methods/msgbox.md)
+* [log](methods/log.md)
+* [tostring](methods/tostring.md)
